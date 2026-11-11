@@ -1,0 +1,118 @@
+﻿[2026-11-11 10:05:05]
+Muse4AI 姹夊寲琛ヤ竵 鈫?鐗堟湰 2.0.0-beta.35
+  宸插鐞?dist/main/main.cjs
+  宸插鐞?dist/renderer/assets/index-CCNQXHEC.js
+瀹屾垚锛氳瘝鍏?3676/3676锛屽唴鑱旀枃鏈?702/702锛岃瑷€鑿滃崟 1 澶勶紝鏈堜唤 2 澶勩€?缈昏瘧瑕嗙洊鐜?100.0%锛屾湭缈昏瘧 0 鏉★紙瑙?untranslated.json锛夈€?@@STATUS {"status":"patched","version":"2.0.0-beta.35","coverage":100,"untranslated":0}
+[2026-11-11 10:05:24]
+Muse4AI 姹夊寲琛ヤ竵 鈫?鐗堟湰 2.0.0-beta.35
+  宸插鐞?dist/main/main.cjs
+  宸插鐞?dist/renderer/assets/index-CCNQXHEC.js
+瀹屾垚锛氳瘝鍏?3676/3676锛屽唴鑱旀枃鏈?702/702锛岃瑷€鑿滃崟 1 澶勶紝鏈堜唤 2 澶勩€?缈昏瘧瑕嗙洊鐜?100.0%锛屾湭缈昏瘧 0 鏉★紙瑙?untranslated.json锛夈€?@@STATUS {"status":"patched","version":"2.0.0-beta.35","coverage":100,"untranslated":0}
+[2026-11-11 10:05:38]
+Muse4AI 姹夊寲琛ヤ竵 鈫?鐗堟湰 2.0.0-beta.35
+  宸插鐞?dist/main/main.cjs
+  宸插鐞?dist/renderer/assets/index-CCNQXHEC.js
+瀹屾垚锛氳瘝鍏?3676/3676锛屽唴鑱旀枃鏈?702/702锛岃瑷€鑿滃崟 1 澶勶紝鏈堜唤 2 澶勩€?缈昏瘧瑕嗙洊鐜?100.0%锛屾湭缈昏瘧 0 鏉★紙瑙?untranslated.json锛夈€?@@STATUS {"status":"patched","version":"2.0.0-beta.35","coverage":100,"untranslated":0}
+[2026-11-11 10:07:36]
+Muse4AI 汉化补丁 → 版本 2.0.0-beta.35
+  已处理 dist/main/main.cjs
+  已处理 dist/renderer/assets/index-CCNQXHEC.js
+完成：词典 3676/3676，内联文本 702/702，语言菜单 1 处，月份 2 处。
+翻译覆盖率 100.0%，未翻译 0 条（见 untranslated.json）。
+@@STATUS {"status":"patched","version":"2.0.0-beta.35","coverage":100,"untranslated":0}
+[2026-11-11 10:08:29]
+Muse4AI 汉化补丁 → 版本 2.0.0-beta.35
+  已处理 dist/main/main.cjs
+  已处理 dist/renderer/assets/index-CCNQXHEC.js
+完成：词典 3676/3676，内联文本 702/702，语言菜单 1 处，月份 2 处。
+翻译覆盖率 100.0%，未翻译 0 条（见 untranslated.json）。
+@@STATUS {"status":"patched","version":"2.0.0-beta.35","coverage":100,"untranslated":0}
+[2026-11-11 10:21:57]
+Muse4AI 汉化补丁 → 版本 2.0.0-beta.35
+  已处理 dist/main/main.cjs
+  已处理 dist/renderer/assets/index-CCNQXHEC.js
+完成：词典 3676/3676，内联文本 702/702，语言菜单 1 处，月份 2 处。
+翻译覆盖率 100.0%，未翻译 0 条（见 untranslated.json）。
+@@STATUS {"status":"patched","version":"2.0.0-beta.35","coverage":100,"untranslated":0}
+[2026-11-11 10:30:39]
+Muse4AI 姹夊寲琛ヤ竵 鈫?鐗堟湰 2.0.0-beta.35
+  宸插鐞?dist/main/main.cjs
+  宸插鐞?dist/renderer/assets/index-CCNQXHEC.js
+  瀹屾垚锛氳瘝鍏?3676/3676锛屽唴鑱?702/702锛岃瑷€ 0 澶勶紝璇█寮€鍏?2 澶勶紝鏈堜唤 2 澶勶紝瑕嗙洊鐜?100%
+Muse4AI 姹夊寲琛ヤ竵 鈫?鐗堟湰 2.0.0-beta.34
+  宸插鐞?dist/main/main.cjs
+  宸插鐞?dist/renderer/assets/index-U9XNtrET.js
+  瀹屾垚锛氳瘝鍏?3670/3670锛屽唴鑱?702/702锛岃瑷€ 0 澶勶紝璇█寮€鍏?2 澶勶紝鏈堜唤 2 澶勶紝瑕嗙洊鐜?100%
+2.0.0-beta.35: patched 100%
+2.0.0-beta.34: patched 100%
+@@STATUS {"status":"patched","versions":[{"version":"2.0.0-beta.35","status":"patched","coverage":100,"untranslated":0},{"version":"2.0.0-beta.34","status":"patched","coverage":100,"untranslated":0}]}
+[2026-11-11 10:30:43]
+Muse4AI 汉化补丁 → 版本 2.0.0-beta.35
+  已处理 dist/main/main.cjs
+  已处理 dist/renderer/assets/index-CCNQXHEC.js
+  完成：词典 3676/3676，内联 702/702，语言 0 处，语言开关 2 处，月份 2 处，覆盖率 100%
+Muse4AI 汉化补丁 → 版本 2.0.0-beta.34
+  已处理 dist/main/main.cjs
+  已处理 dist/renderer/assets/index-U9XNtrET.js
+  完成：词典 3670/3670，内联 702/702，语言 0 处，语言开关 2 处，月份 2 处，覆盖率 100%
+2.0.0-beta.35: patched 100%
+2.0.0-beta.34: patched 100%
+@@STATUS {"status":"patched","versions":[{"version":"2.0.0-beta.35","status":"patched","coverage":100,"untranslated":0},{"version":"2.0.0-beta.34","status":"patched","coverage":100,"untranslated":0}]}
+[2026-11-11 10:31:53]
+Muse4AI 姹夊寲琛ヤ竵 鈫?鐗堟湰 2.0.0-beta.35
+  宸插鐞?dist/main/main.cjs
+  宸插鐞?dist/renderer/assets/index-CCNQXHEC.js
+  瀹屾垚锛氳瘝鍏?3676/3676锛屽唴鑱?702/702锛岃瑷€ 1 澶勶紝璇█寮€鍏?2 澶勶紝鏈堜唤 2 澶勶紝瑕嗙洊鐜?100%
+Muse4AI 姹夊寲琛ヤ竵 鈫?鐗堟湰 2.0.0-beta.34
+  宸插鐞?dist/main/main.cjs
+  宸插鐞?dist/renderer/assets/index-U9XNtrET.js
+  瀹屾垚锛氳瘝鍏?3670/3670锛屽唴鑱?702/702锛岃瑷€ 1 澶勶紝璇█寮€鍏?2 澶勶紝鏈堜唤 2 澶勶紝瑕嗙洊鐜?100%
+2.0.0-beta.35: patched 100%
+2.0.0-beta.34: patched 100%
+@@STATUS {"status":"patched","versions":[{"version":"2.0.0-beta.35","status":"patched","coverage":100,"untranslated":0},{"version":"2.0.0-beta.34","status":"patched","coverage":100,"untranslated":0}]}
+[2026-11-11 10:38:37]
+宸插浠藉師濮?app.asar 鈫?app.asar.orig
+Muse4AI 姹夊寲琛ヤ竵 鈫?鐗堟湰 2.0.0-beta.35
+  宸插鐞?dist/main/main.cjs
+  宸插鐞?dist/renderer/assets/index-CCNQXHEC.js
+  瀹屾垚锛氳瘝鍏?3676/3676锛屽唴鑱?702/702锛岃瑷€ 1 澶勶紝璇█寮€鍏?2 澶勶紝鏈堜唤 2 澶勶紝瑕嗙洊鐜?100%
+  宸插浠藉師濮?app.asar 鈫?app.asar.orig
+Muse4AI 姹夊寲琛ヤ竵 鈫?鐗堟湰 2.0.0-beta.34
+  宸插鐞?dist/main/main.cjs
+  宸插鐞?dist/renderer/assets/index-U9XNtrET.js
+  瀹屾垚锛氳瘝鍏?3670/3670锛屽唴鑱?702/702锛岃瑷€ 1 澶勶紝璇█寮€鍏?2 澶勶紝鏈堜唤 2 澶勶紝瑕嗙洊鐜?100%
+2.0.0-beta.35: patched 100%
+2.0.0-beta.34: patched 100%
+@@STATUS {"status":"patched","versions":[{"version":"2.0.0-beta.35","status":"patched","coverage":100,"untranslated":0},{"version":"2.0.0-beta.34","status":"patched","coverage":100,"untranslated":0}]}
+[2026-11-11 10:41:20]
+Muse4AI 姹夊寲琛ヤ竵 鈫?鐗堟湰 2.0.0-beta.35
+  宸插鐞?dist/main/main.cjs
+  宸插鐞?dist/renderer/assets/index-CCNQXHEC.js
+  瀹屾垚锛氳瘝鍏?3676/3676锛屽唴鑱?702/702锛岃瑷€ 1 澶勶紝璇█寮€鍏?2 澶勶紝鏈堜唤 2 澶勶紝瑕嗙洊鐜?100%
+Muse4AI 姹夊寲琛ヤ竵 鈫?鐗堟湰 2.0.0-beta.34
+  宸插鐞?dist/main/main.cjs
+  宸插鐞?dist/renderer/assets/index-U9XNtrET.js
+  瀹屾垚锛氳瘝鍏?3670/3670锛屽唴鑱?702/702锛岃瑷€ 1 澶勶紝璇█寮€鍏?2 澶勶紝鏈堜唤 2 澶勶紝瑕嗙洊鐜?100%
+2.0.0-beta.35: patched 100%
+2.0.0-beta.34: patched 100%
+@@STATUS {"status":"patched","versions":[{"version":"2.0.0-beta.35","status":"patched","coverage":100,"untranslated":0},{"version":"2.0.0-beta.34","status":"patched","coverage":100,"untranslated":0}]}
+[2026-11-11 10:46:04]
+Muse4AI 姹夊寲琛ヤ竵 鈫?鐗堟湰 2.0.0-beta.35
+  宸插鐞?dist/main/main.cjs
+  宸插鐞?dist/renderer/assets/index-CCNQXHEC.js
+  瀹屾垚锛氳瘝鍏?3676/3676锛屽唴鑱?702/702锛岃瑷€ 1 澶勶紝璇█寮€鍏?2 澶勶紝鏈堜唤 2 澶勶紝瑕嗙洊鐜?100%
+2.0.0-beta.35: patched 100%
+2.0.0-beta.34: already
+@@STATUS {"status":"patched","versions":[{"version":"2.0.0-beta.35","status":"patched","coverage":100,"untranslated":0},{"version":"2.0.0-beta.34","status":"already"}]}
+[2026-11-11 11:01:46]
+Muse4AI 姹夊寲琛ヤ竵 鈫?鐗堟湰 2.0.0-beta.35
+  宸插鐞?dist/main/main.cjs
+  宸插鐞?dist/renderer/assets/index-CCNQXHEC.js
+  瀹屾垚锛氳瘝鍏?3676/3676锛屽唴鑱?702/702锛岃瑷€ 1 澶勶紝璇█寮€鍏?2 澶勶紝鏈堜唤 2 澶勶紝瑕嗙洊鐜?100%
+Muse4AI 姹夊寲琛ヤ竵 鈫?鐗堟湰 2.0.0-beta.34
+  宸插鐞?dist/main/main.cjs
+  宸插鐞?dist/renderer/assets/index-U9XNtrET.js
+  瀹屾垚锛氳瘝鍏?3670/3670锛屽唴鑱?702/702锛岃瑷€ 1 澶勶紝璇█寮€鍏?2 澶勶紝鏈堜唤 2 澶勶紝瑕嗙洊鐜?100%
+2.0.0-beta.35: patched 100%
+2.0.0-beta.34: patched 100%
+@@STATUS {"status":"patched","versions":[{"version":"2.0.0-beta.35","status":"patched","coverage":100,"untranslated":0},{"version":"2.0.0-beta.34","status":"patched","coverage":100,"untranslated":0}]}
